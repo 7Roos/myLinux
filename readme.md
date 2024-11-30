@@ -25,6 +25,8 @@ cd myLinux
 ./myLinux.sh
 ```
 
+![Texto alternativo](screenshot.png)
+
 ## Installation Options:
 
 - **Essentials**: Core utilities, editors, terminals.
